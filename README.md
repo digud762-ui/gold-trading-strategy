@@ -22,4 +22,4 @@ Moving Average Crossover trading strategy on Gold using python
     ## Author
     Digud762-ui
 
-    ##
+    
