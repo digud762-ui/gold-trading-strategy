@@ -19,6 +19,9 @@ Moving Average Crossover trading strategy on Gold using python
   - Profit: 1001.70
   - Return: 29.69%
 
+    ## portfolio Growth
+    ![portfolio Growth](portfolio_growth.png)
+
     ## Author
     Digud762-ui
 
